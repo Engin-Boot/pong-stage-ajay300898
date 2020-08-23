@@ -19,7 +19,8 @@ Shows and provides facility to edit paddle properties.
   Given the game is installed in the device and the user is in the
   paddle properties page.
   
-  When the player selects the paddle from his collection.
+  When the player selects the paddle from his collection and click
+  save changes.
   
   Then this module the updates the paddle information and it will be
   this paddle that shows the game.
