@@ -2,7 +2,7 @@
 
 ## Features
 
-  This module moniter the position of the ball and
+  This module monitor's the position of the ball and
   triggers appropriate modules.
   
 ### Scenario : Ball hits side wall or paddle
