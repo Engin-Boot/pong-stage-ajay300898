@@ -10,5 +10,5 @@ Calculates the properties of paddle
   
   When the paddle is moved.
   
-  Then this module calculates the speed, direction and 
+  Then this module calculates the speed, direction and
       position of the paddle.
