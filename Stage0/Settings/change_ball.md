@@ -19,7 +19,8 @@ Shows and provides facility to edit ball properties.
   Given the game is installed in the device and the user is in the
   ball properties page.
   
-  When the player selects the ball from his collection.
+  When the player selects the ball from his collection and click
+  save changes.
   
   Then this module the updates the ball information and it will be
   this ball that shows the game.
