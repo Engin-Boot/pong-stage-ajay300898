@@ -4,7 +4,7 @@
 
 Allows to play with friend.
 
-### Scenario: Play multiplayer with friend.
+### Scenario: Play multiplayer with friend
 
   Given the game is installed, opened and there is active
   internet connection.
