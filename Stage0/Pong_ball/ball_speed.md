@@ -4,7 +4,7 @@
 
 This module calculates ball speed.
 
-### Scenario : Ball speed when it hits the side walls.
+### Scenario : Ball speed when it hits the side walls
 
   Given the game is in progress.
   
