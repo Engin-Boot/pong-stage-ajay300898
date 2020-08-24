@@ -13,4 +13,4 @@ to play with a random player.
   When the player chooses play online randomly.
   
   Then this module searches for a player who is online and
-  wants to play with a rndom player.
+  wants to play with a random player.
