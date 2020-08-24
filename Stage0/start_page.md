@@ -14,7 +14,6 @@ links for different modules.
   Then this module shows links to Profile, Settings, Play, Friends
   modules.
 
-
 ### Scenario : What happens when user clicks on one of the links
 
   Given the game is installed and the user is in start page.
