@@ -5,6 +5,14 @@
   This module keeps track of score of the players
   and declares the winner
 
+### Scenario : Set the score to zero
+
+  Given the game is installed and player is in start page.
+  
+  When player selects on of the option to play in the play module.
+  
+  Then this module sets the scores of both players to zero.
+
 ### Scenario : Update the score
 
   Given the game is in progress.
