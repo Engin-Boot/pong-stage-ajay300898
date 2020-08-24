@@ -16,8 +16,9 @@ When the game is opened start page module is loaded.
 
 ## Movement Initiation
 
--describe-how-modules-interact-to-make-the-ball-move
+  start module --> controller --> ball position --> ball speed, ball direction. 
 
 ## One score
 
--describe-how-the-modules-interact-to-record-scores
+  controller --> score module.
+ 
