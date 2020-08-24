@@ -2,7 +2,17 @@
 
 ## Startup Sequence
 
--describe-how-your-modules-interact-to-start
+When the game is opened start page module is loaded.
+
+  To start the game.
+  
+  Start page --> Play module.
+  
+  Play module --> play with computer --> start module.
+  
+  Play module --> play with friend --> start module.
+  
+  Play module --> play online randomly --> start module.
 
 ## Movement Initiation
 
