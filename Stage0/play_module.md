@@ -1,6 +1,6 @@
 # Play Module
 
-# Features
+## Features
 
 Allows player to choose between single player or
 multiplayer(with friend or random)
